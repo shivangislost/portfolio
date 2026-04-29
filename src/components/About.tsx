@@ -6,9 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          MBA candidate in Business Analytics with hands-on experience in SQL,
+          Excel, Tableau, and Python. Skilled at turning raw data into
+          actionable insights through data visualization, statistical analysis,
+          and segmentation models. Backed by real-world project experience
+          delivering dashboards and analytical reports, with a foundation in
+          QA and release management.
         </p>
       </div>
     </div>

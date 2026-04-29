@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="40" fill="#e8f5e9"/>
+  <rect x="176" y="90" width="160" height="200" rx="10" fill="#0F9D58"/>
+    <rect x="196" y="130" width="120" height="4" fill="white"/>
+    <rect x="196" y="160" width="120" height="4" fill="white"/>
+    <rect x="196" y="190" width="120" height="4" fill="white"/>
+    <rect x="196" y="220" width="120" height="4" fill="white"/>
+    <rect x="256" y="120" width="4" height="120" fill="white"/>
+    <rect x="216" y="90" width="80" height="30" fill="#0a8a4c"/>
+    <polygon points="216,90 176,120 216,120" fill="#07753f"/>
+  <text x="256" y="440" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" fill="#0F9D58" text-anchor="middle" letter-spacing="3">SHEETS</text>
+</svg>

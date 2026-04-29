@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="40" fill="#e3f2fd"/>
+  <rect x="236" y="100" width="40" height="40" fill="#e8762d"/>
+    <rect x="236" y="160" width="40" height="60" fill="#59a14f"/>
+    <rect x="236" y="240" width="40" height="50" fill="#4e79a7"/>
+    <rect x="176" y="160" width="40" height="50" fill="#f28e2b"/>
+    <rect x="296" y="150" width="40" height="70" fill="#76b7b2"/>
+    <rect x="176" y="230" width="40" height="40" fill="#e15759"/>
+    <rect x="296" y="240" width="40" height="50" fill="#b07aa1"/>
+    <rect x="116" y="200" width="40" height="40" fill="#ff9da7"/>
+    <rect x="356" y="190" width="40" height="50" fill="#9c755f"/>
+  <text x="256" y="440" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" fill="#1f77b4" text-anchor="middle" letter-spacing="3">TABLEAU</text>
+</svg>
