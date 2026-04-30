@@ -54,9 +54,9 @@ const Work = () => {
         </h2>
         <div className="work-flex">
           {[
-            { name: "Sales & Performance Data Analysis", category: "Data Analysis", tools: "Excel, MS Office", image: "/portfolio/images/sales_dashboard.png" },
-            { name: "Guest Segmentation Dashboard", category: "Data Visualization", tools: "Tableau", image: "/portfolio/images/segmentation_dashboard.png" },
-            { name: "Customer Segmentation", category: "RFM Analysis", tools: "Python & Excel", image: "/portfolio/images/rfm_analysis.png" }
+            { name: "Sales & Performance Data Analysis", category: "Data Analysis", tools: "Excel, MS Office", image: "/images/sales_dashboard.png" },
+            { name: "Guest Segmentation Dashboard", category: "Data Visualization", tools: "Tableau", image: "/images/segmentation_dashboard.png" },
+            { name: "Customer Segmentation", category: "RFM Analysis", tools: "Python & Excel", image: "/images/rfm_analysis.png" }
           ].map((project, index) => (
             <div className="work-box" key={index}>
               <div className="work-info">
