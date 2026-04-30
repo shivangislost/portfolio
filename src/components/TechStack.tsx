@@ -13,15 +13,15 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/sql.svg",
-  "/images/excel.svg",
-  "/images/tableau.svg",
-  "/images/python.svg",
-  "/images/powerbi.svg",
-  "/images/googlesheets.svg",
-  "/images/html.svg",
-  "/images/css.svg",
-  "/images/git.svg",
+  "/portfolio/images/sql.svg",
+  "/portfolio/images/excel.svg",
+  "/portfolio/images/tableau.svg",
+  "/portfolio/images/python.svg",
+  "/portfolio/images/powerbi.svg",
+  "/portfolio/images/googlesheets.svg",
+  "/portfolio/images/html.svg",
+  "/portfolio/images/css.svg",
+  "/portfolio/images/git.svg",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
@@ -200,7 +200,7 @@ const TechStack = () => {
           ))}
         </Physics>
         <Environment
-          files="/models/char_enviorment.hdr"
+          files="/portfolio/models/char_enviorment.hdr"
           environmentIntensity={0.5}
           environmentRotation={[0, 4, 2]}
         />
